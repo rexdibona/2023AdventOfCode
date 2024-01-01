@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 import sys
 
+# comment to make a diff
+
 #
 # Direction: 0 = right, 1 = up, 2 = left, 3 = down
 #
